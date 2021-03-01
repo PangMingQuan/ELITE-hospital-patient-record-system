@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538132532 source:c:\users\user\desktop\hms_6choices\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<vector>
+	<algorithm>
+	<string>
+	<iomanip>
+
+1538318683 source:c:\users\enduser\desktop\hms_6choices1\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<vector>
+	<algorithm>
+	<string>
+	<iomanip>
+
